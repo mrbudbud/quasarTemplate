@@ -15,7 +15,7 @@
           Quasar App
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Comingsoon new website</div>
       </q-toolbar>
     </q-header>
 
